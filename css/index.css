@@ -1,0 +1,12 @@
+body{
+   background-color: #EEF6F8;
+}
+p{
+    font-size: 1rem;
+    line-height: 2.1;
+}
+footer{
+    background-color: #000;
+    font-size: 14px;
+    line-height: 2;
+}
